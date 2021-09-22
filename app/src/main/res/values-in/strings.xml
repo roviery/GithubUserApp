@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Nama</string>
+    <string name="user_name">Nama Panggilan</string>
+    <string name="user_company">Perusahaan</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="num">nomor</string>
+    <string name="barrier">|</string>
+    <string name="company">Nama Perusahan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repository</string>
+    <string name="user_s_detail">Detail Pengguna</string>
+    <string name="github_user">Pengguna Github</string>
+    <string name="settings">Pengaturan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">favorit</string>
+    <string name="favorite_user">Pengguna Favorit</string>
+</resources>
